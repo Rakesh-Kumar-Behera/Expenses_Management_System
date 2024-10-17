@@ -1,0 +1,33 @@
+2024-10-16 16:04:31,179 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2024-10-16 16:05:03,954 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-10-16 16:09:52,854 - db_helper - INFO - insert_expense called with date: 2024-08-25, amount: 30, category: Food, notes: Ate Biryani
+2024-10-16 16:11:39,539 - db_helper - INFO - delete_expenses_for_date called with 2024-08-25
+2024-10-16 19:20:09,719 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-24
+2024-10-16 19:20:16,311 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-16 19:24:54,287 - db_helper - INFO - delete_expenses_for_date called with 2024-08-24
+2024-10-16 19:24:54,313 - db_helper - INFO - insert_expense called with date: 2024-08-24, amount: 1500.0, category: Shopping, notes: bought a headphone
+2024-10-16 19:24:54,337 - db_helper - INFO - insert_expense called with date: 2024-08-24, amount: 1200.0, category: Shopping, notes: bought a Charger
+2024-10-17 15:35:48,156 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-17 15:35:56,737 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-05
+2024-10-17 15:36:09,841 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-24
+2024-10-17 15:36:22,769 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-24
+2024-10-17 15:36:24,424 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-24
+2024-10-17 15:36:26,540 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-24
+2024-10-17 15:36:59,317 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-24
+2024-10-17 15:37:04,195 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-24
+2024-10-17 15:37:06,287 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-15
+2024-10-17 15:37:55,276 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-24
+2024-10-17 15:37:57,364 - db_helper - INFO - delete_expenses_for_date called with 2024-08-24
+2024-10-17 15:37:57,387 - db_helper - INFO - insert_expense called with date: 2024-08-24, amount: 1500.0, category: Shopping, notes: bought a headphone
+2024-10-17 15:37:57,399 - db_helper - INFO - insert_expense called with date: 2024-08-24, amount: 1200.0, category: Shopping, notes: bought a Charger
+2024-10-17 15:37:57,409 - db_helper - INFO - insert_expense called with date: 2024-08-24, amount: 500.0, category: Food, notes: Ate Biryani at Paradise
+2024-10-17 15:38:02,129 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-23
+2024-10-17 15:38:05,720 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-24
+2024-10-17 15:38:22,392 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-05
+2024-10-17 16:14:00,332 - db_helper - INFO - fetching monthly_expense_summary
+2024-10-17 16:18:29,700 - db_helper - INFO - fetch_expense_summary_by_months
+2024-10-17 16:18:58,781 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-17 16:20:56,174 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-17 16:21:03,231 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-17 16:22:51,337 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2024-10-17 16:22:53,427 - db_helper - INFO - fetch_expense_summary_by_months
